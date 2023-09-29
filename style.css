@@ -1,0 +1,38 @@
+* {
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #183548; 
+    color: #fff; 
+    padding: 20px; 
+    text-align: center; 
+    font-family: 'Courier New', Courier, monospace;
+}
+img{
+    border-radius: 200px;
+    width: 150px;  
+}
+
+header h1 {
+    font-size: 36px; 
+}
+
+section {
+    padding: 20px; 
+    margin: 20px; 
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #183548;
+    box-shadow: 2px 4px #12212854;
+}
+
+.pengalaman-item, .kegiatan-item .kontak{
+    margin-bottom: 20px; 
+    font-family: 'Courier New', Courier, monospace;
+
+
+}
